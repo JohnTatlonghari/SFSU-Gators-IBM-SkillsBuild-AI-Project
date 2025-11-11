@@ -1,4 +1,4 @@
-# SFSU-Gators-IBM-SkillsBuild-AI-Project-2025
+# Healthcare Chatbot by SFSU Gators for IBM's AI Learning Hackathon
 
 # 🧠 Health & Wellness AI Chatbot
 
